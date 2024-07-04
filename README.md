@@ -1,0 +1,2 @@
+# Django-Static
+Django-Static
